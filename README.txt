@@ -28,12 +28,12 @@ Here's how you can create and use a virtual environment:
 3. Activate the Virtual Environment**: Run `.\\env\\Scripts\\activate`.
 
 ### For macOS/Linux:
-3. Activate the Virtual Environment : Run `source env/bin/activate`.
+3. Activate the Virtual Environment: Run `source env/bin/activate`.
 
 4. Install Packages: Run the following command to install the packages:  Run `pip install -r requirements.txt`
 
 5. RUN the script -  Run `Python3 main.py'
-This will  create a output file - Command_Sch_Output_starttime.csv
+This will  create an output file - Command_Sch_Output_starttime.csv
 
 6. **Deactivate the Environment**: Run `deactivate` when done.
 
